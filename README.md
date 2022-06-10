@@ -10,7 +10,7 @@ The supported functions are:
 - print
 - scan 
 - <different math operations>
-- <data types:>
+- <data types>
   int, char, file
 - cmd command execution
 - function loading from different files
