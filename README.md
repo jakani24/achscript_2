@@ -9,8 +9,8 @@ The supported functions are:
 - else
 - print
 - scan 
-- <different math operations>
-- <data types>
+- different math operations
+- data types:
   int, char, file
 - cmd command execution
 - function loading from different files
