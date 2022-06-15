@@ -12,6 +12,7 @@ The supported functions are:
 - different math operations
 - data types:
   int, char, file
+- File operations
 - cmd command execution
 - function loading from different files
 - automatic variable type detection
