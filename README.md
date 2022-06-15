@@ -5,7 +5,7 @@ The first version of achscript 2.0 is nearly ready for presentation.
 Expect a much better performance, a more C like syntax, new functionality and better security.
 The supported functions are:
 - if
-- while
+- while 
 - else
 - print
 - scan 
