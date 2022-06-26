@@ -5,7 +5,7 @@
 
 | Version | Supported                                      |
 | ------- | -----------------------------------------------|
-| 1.0.1   | :green_check_mark: the latest/securest version |
+| 1.0.1   | the latest/securest version                    |
 | 1.0.0   | please use version 1.0.1 for better security   |
 
 ## Reporting a Vulnerability
